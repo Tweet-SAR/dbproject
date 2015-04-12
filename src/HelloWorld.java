@@ -4,7 +4,7 @@ public class HelloWorld {
 	public static void main(String args[]) {
 		
 	
-	System.out.println("RDalishacd2");
+	System.out.println("RD1");
 	}
 
 }
